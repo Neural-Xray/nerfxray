@@ -1,1 +1,1 @@
-# nerfxray.github.io
+# Neural rendering enables dynamic tomography
