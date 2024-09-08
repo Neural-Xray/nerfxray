@@ -5,7 +5,8 @@
 X-ray computed tomography (CT) is an established method for 3d charazterization of objects with applications ranging from medical imaging to industrial component inspection.
 While in this project we focus on materials engineering, the developed techniques can be used in many other domains.
 
-[Figure showing brain CT, industrial pore analysis, Angkur's lattice]
+Brain CT from Human Organ Atlas ([doi:10.15151/ESRF-DC-572252655](http://doi.org/10.15151/ESRF-DC-572252655)) under CC-BY-4.0 license.
+
 
 ### In-situ deformation experiments
 
