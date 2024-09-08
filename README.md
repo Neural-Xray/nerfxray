@@ -16,7 +16,7 @@ The acquisition of a tomogram requires the collection of many (~3000) projection
 The exposure time in a lab-based X-ray CT system is on the order of 1 second, therefore tomogram acquisition takes about 1 hour.
 The projection acquisition is repeated at every deformation step to obtain a complete 3d spatio-temporal dataset which can be used in downstream tasks such as constitutive modelling.
 
-[animation showing current setup]
+![CT acquisition](https://github.com/Neural-Xray/nerfxray/blob/main/assets/insitu.gif?raw=true)
 
 ### Objective
 
@@ -45,4 +45,4 @@ We develop a framework based on neural rendering in which we combine high-fideli
 [show that the struts are being squished]
 
 ## References
-[1] Brain CT animation adapted from Human Organ Atlas ([doi:10.15151/ESRF-DC-572252655](http://doi.org/10.15151/ESRF-DC-572252655)) under CC-BY-4.0 license.
+[1] Brain CT animation adapted from Human Organ Atlas ([doi:10.15151/ESRF-DC-572252655](http://doi.org/10.15151/ESRF-DC-572252655), [https://human-organ-atlas.esrf.eu/datasets/572252538](https://human-organ-atlas.esrf.eu/datasets/572252538)) under CC-BY-4.0 license.
