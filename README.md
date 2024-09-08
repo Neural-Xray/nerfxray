@@ -3,10 +3,9 @@
 ## Motivation
 
 X-ray computed tomography (CT) is an established method for 3d charazterization of objects with applications ranging from medical imaging to industrial component inspection.
-While in this project we focus on materials engineering, the developed techniques can be used in many other domains.
+While in this project we focus on materials engineering, the developed techniques can be used in many other domains. [1]
 
-Brain CT from Human Organ Atlas ([doi:10.15151/ESRF-DC-572252655](http://doi.org/10.15151/ESRF-DC-572252655)) under CC-BY-4.0 license.
-
+![Motivation](https://github.com/Neural-Xray/nerfxray/blob/main/assets/motivation.gif?raw=true)
 
 ### In-situ deformation experiments
 
@@ -44,3 +43,6 @@ We develop a framework based on neural rendering in which we combine high-fideli
 ## Limitations and broader impact
 
 [show that the struts are being squished]
+
+## References
+[1] Brain CT animation adapted from Human Organ Atlas ([doi:10.15151/ESRF-DC-572252655](http://doi.org/10.15151/ESRF-DC-572252655)) under CC-BY-4.0 license.
