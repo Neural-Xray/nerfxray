@@ -40,6 +40,8 @@ We develop a framework based on neural rendering in which we combine high-fideli
 
 ### Localized deformation of Kelvin lattice
 
+![Localizing deformation in lattice](https://github.com/Neural-Xray/nerfxray/blob/main/assets/localized.gif?raw=true)
+
 ### Deformation of randomized lattice
 
 ![Randomized lattice](https://github.com/Neural-Xray/nerfxray/blob/main/assets/randomized.gif?raw=true)
