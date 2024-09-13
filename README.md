@@ -34,6 +34,8 @@ We develop a framework based on neural rendering in which we combine high-fideli
 
 ### Data efficiency of neural rendering
 
+![Data efficiency of neural rendering](https://github.com/Neural-Xray/nerfxray/blob/main/assets/efficiency.gif?raw=true)
+
 ### Accurate estimation of deformation field
 
 ## Experimental results
