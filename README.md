@@ -42,7 +42,7 @@ It is demonstrated that the NeRF provides a more accurate reconstruction when th
 ### Accurate estimation of deformation field
 
 Testing the framework with simulated data enables us to compare the predicted deformation field with the known imposed field.
-The reconstructed deformation field matches the imposed field not only at $t=0$ and $t=1$ (when many projections are available), but also at intermediate timesteps.
+The reconstructed deformation field matches the imposed field not only at t=0 and t=1 (when many projections are available), but also at intermediate timesteps.
 
 ![Known deformation field](https://github.com/Neural-Xray/nerfxray/blob/main/assets/simulated.gif?raw=true)
 
@@ -51,7 +51,7 @@ The reconstructed deformation field matches the imposed field not only at $t=0$ 
 We now apply the framework to two real-world experiments.
 The samples are 3d printed and compression experiments are captured.
 Below is the neural reconstruction of a Kelvin lattice in which the deformation is localized to a plane of defects.
-The comparison of reconstructed volumes (withheld X-CT vs NeRF) at an intermediate timestep $t=0.6$ showns an excellent match.
+The comparison of reconstructed volumes (withheld X-CT vs NeRF) at an intermediate timestep t=0.6 showns an excellent match.
 
 ![Localizing deformation in lattice](https://github.com/Neural-Xray/nerfxray/blob/main/assets/localized.gif?raw=true)
 
@@ -61,7 +61,7 @@ So far we only studied samples with well-defined periodic ordering.
 Here we show that the framework is also applicable to more complex microstructures with the example of a randomized Kelvin lattice.
 Below is the comparison of X-CT and NeRF reconstruction.
 The lack of periodic ordering is visible in the detailed insets.
-The surface deviations between the withehld X-CT and NeRF reconstruction at $t=0.6$ show an excellent match within $150 \mu m$  (n.b. the resolution of the scans is $75 \mu m$ ).
+The surface deviations between the withehld X-CT and NeRF reconstruction at t=0.6 show an excellent match within 150 μm  (n.b. the resolution of the scans is 75 μm ).
 
 ![Randomized lattice](https://github.com/Neural-Xray/nerfxray/blob/main/assets/randomized.gif?raw=true)
 
