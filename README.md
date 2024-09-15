@@ -39,6 +39,8 @@ _In the first step, the canonical volume is trained (<img src="assets/fire.svg" 
 
 ### Accurate estimation of deformation field
 
+![Known deformation field](https://github.com/Neural-Xray/nerfxray/blob/main/assets/simulated.gif?raw=true)
+
 ## Experimental results
 
 ### Localized deformation of Kelvin lattice
