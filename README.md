@@ -29,7 +29,7 @@ We develop a framework based on neural rendering in which we combine high-fideli
 ## Approach
 
 ![Illustration of framework](https://github.com/Neural-Xray/nerfxray/blob/main/assets/framework.gif?raw=true)
-_In the first step, the canonical volume is trained ( :fire: ). In the second step, the canonical volume is frozen ( :snowflake: ) and the deformation field is trained ( :fire: )._
+_In the first step, the canonical volume is trained (<img src="assets/fire.svg" alt="fire" width="12"/>). In the second step, the canonical volume is frozen (<img src="assets/snowflake.svg" alt="snowflake" width="12"/>) and the deformation field is trained (<img src="assets/fire.svg" alt="fire" width="12"/>)._
 
 ## Simulation results
 
