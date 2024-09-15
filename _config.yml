@@ -3,3 +3,4 @@ title: Neural rendering enables dynamic tomography
 description: Reconstruction of deformation sequences from two projections
 github:
   paper_url: https://github.com/Neural-Xray/nerfxray/blob/main/assets/Neural-Rendering-NeurIPS_2024_ML4PS.pdf
+google_analytics: G-2ECJYRJXN6
