@@ -2,6 +2,7 @@ theme: jekyll-theme-cayman
 title: Neural rendering enables dynamic tomography
 description: Ivan Grega, William F. Whitney, Vikram S. Deshpande
 github:
-  paper_url: https://github.com/Neural-Xray/nerfxray/blob/main/assets/Neural-Rendering-NeurIPS_2024_ML4PS.pdf
+  code_url: https://github.com/igrega348/neural_xray
+neurips: https://github.com/Neural-Xray/nerfxray/blob/main/assets/Neural-Rendering-NeurIPS_2024_ML4PS.pdf
 arxiv: https://arxiv.org/abs/2410.20558
 google_analytics: G-2ECJYRJXN6
